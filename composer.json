@@ -1,0 +1,10 @@
+{
+    "name": "eddyszucs/exceltocsv",
+    "description": "Turns excel files into CSV",
+    "keywords": ["csv", "excel"],
+    "license": "MIT",
+    "type": "project",
+	"require": {
+		"phpoffice/phpspreadsheet": "^1.6"
+	}
+}
